@@ -1,0 +1,17 @@
+<html>
+		<head>
+			<title>HTML ile ilk dosya oluşturma</title>
+		</head>	
+		<body>
+			<p>Merhaba Dünya!</p>
+		</body>
+</html>
+yeni bilgiler eklendi
+ali asksoy
+görseller
+vdeolar
+logolar
+paket yönetici ile kurulmus dosyalr
+ali ve feyz alis
+h1*>lorem	
+
