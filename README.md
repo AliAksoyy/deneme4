@@ -4,4 +4,3 @@
 asdasddfaf
 gfdgg
 
-[lorem ipsum](htpp://google.com)
